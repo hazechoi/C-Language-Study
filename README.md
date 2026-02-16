@@ -2,7 +2,6 @@
 
 ## 실습 문제
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 1. 프로그래밍 시작하기
 - [📄 1장 C프로그램.c](https://github.com/hazechoi/C-Language-Study/blob/main/1%EC%9E%A5%20C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.c)
