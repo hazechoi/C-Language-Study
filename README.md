@@ -18,5 +18,5 @@
 
 ---
 
-### 3. 입출력
+### 4. 수식과 연산자
 - [📄 4장 수식과 연산자.c](https://github.com/hazechoi/C-Language-Study/blob/main/4%EC%9E%A5%20%EC%88%98%EC%8B%9D%EA%B3%BC%20%EC%97%B0%EC%82%B0%EC%9E%90.c)
