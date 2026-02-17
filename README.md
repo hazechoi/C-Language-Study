@@ -19,4 +19,4 @@
 ---
 
 ### 3. 입출력
-- [📄 4장 수식과 연산자.c](https://github.com/hazechoi/C-Language-Study/blob/main/3%EC%9E%A5%20%EC%9E%85%EC%B6%9C%EB%A0%A5.c)
+- [📄 4장 수식과 연산자.c](https://github.com/hazechoi/C-Language-Study/blob/main/4%EC%9E%A5%20%EC%88%98%EC%8B%9D%EA%B3%BC%20%EC%97%B0%EC%82%B0%EC%9E%90.c)
