@@ -97,7 +97,6 @@ int main() {
 	return 0;
 }
 
-*/
 
 
 // 5
@@ -124,6 +123,115 @@ int main() {
 	else if ((N % 2 != 0) && (N % 3 != 0) && (N % 5 != 0)) {
 		printf("N");
 	}
+
+	return 0;
+}
+
+
+
+
+// 6
+
+int main() {
+	int a, b, c, max, min;
+	scanf("%d %d %d", &a, &b, &c);
+
+	max = a;
+	if (b > a)max = b;
+	if (c > b)max = c;
+
+	min = a;
+	if (a > b)min = b;
+	if (b > c)min = c;
+
+	printf("%d %d", max, min);
+
+
+	return 0;
+}
+
+
+
+// 7
+
+int main() {
+	int N, M;
+	scanf("%d", &N);
+	scanf("%d", &M);
+
+
+if(N==M){
+	printf("RIGHT");
+	return 1;
+}
+
+else {
+	if (N < M) {
+		printf("DOWN\n");
+	}
+
+	else if(N > M){
+	printf("UP\n");
+	}
+
+	scanf("%d", &M);
+	
+	if (N == M) {
+		printf("RIGHT");
+		return 1;
+	}
+
+	else {
+		if (N < M) {
+			printf("DOWN\n");
+		}
+
+		else if (N > M) {
+			printf("UP\n");
+		}
+	}
+}
+
+	return 0;
+}
+
+
+// 8
+
+int main() {
+	int N;
+	scanf("%d", &N);
+
+	if (N % 4 == 0) {
+		if (N % 100 == 0) {
+			if (N % 400 == 0) {
+				printf("leap year");
+			
+			}
+			else {
+				printf("common year");
+			}
+		}
+		else {
+			printf("leap year");
+		}
+	}
+	else {
+	
+		printf("common year");
+	}
+
+	return 0;
+}
+
+*/
+
+// 8-1
+// 단일 if-else문은 논리 연산자 사용해도 됌
+int main() {
+	int N;
+	scanf("%d", &N);
+
 
 	return 0;
 }
